@@ -1,0 +1,49 @@
+const LaviqData = [
+    {
+        id:1,
+        img:"https://drive.google.com/uc?id=16RK8jSZiH_QLozkdlwiOmJfFt0rDHjxJ",
+    },
+    {
+        id:2,
+        img:"https://drive.google.com/uc?id=15t70nouXEliIc-GQFI4BKEZkvw5I6tm8",
+    },
+    {
+        id:3,
+        img:"https://drive.google.com/uc?id=16-uogvF7_4nuVD_wQH7QHshHj7E_1w9t",
+    },
+    {
+        id:4,
+        img:"https://drive.google.com/uc?id=15nnUPH6H_aihQjInNR4JV-XfiDW4AVQv",
+    },
+    {
+        id:5,
+        img:"https://drive.google.com/uc?id=15NhbBnAo2I8HHTyUWIUBJ7KEIwYAM-l4",
+    },
+    {
+        id:6,
+        img:"https://drive.google.com/uc?id=15204SJgCyymA8RTF2OEp-6Y1FQ97rZn3",
+    },
+    {
+        id:7,
+        img:"https://drive.google.com/uc?id=15DF4t7mNfbhbjRi45PdZyb2KoF8l8r3J",
+    },
+    {
+        id:8,
+        img:"https://drive.google.com/uc?id=15S9XMofPnITFXpbgdsttFMn8r0Gn65pJ",
+    },
+    {
+        id:9,
+        img:"https://drive.google.com/uc?id=15TD9-dX5iu0MAupb2NUP3dNOUNpD7Yrg",
+    },
+    {
+        id:10,
+        img:"https://drive.google.com/uc?id=15_rG26UhaUAowzBqX61Xp1vI0UdVZTsD",
+    },
+    {
+        id:11,
+        img:"https://drive.google.com/uc?id=15iJrozOvTyoGeGg-Vv9p5MeCwIUJGkH9",
+    },
+    
+];
+
+export default LaviqData;

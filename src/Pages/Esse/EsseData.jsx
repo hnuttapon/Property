@@ -1,0 +1,52 @@
+const EsseData = [
+    {
+        id:1,
+        img:"https://drive.google.com/uc?id=1-81Lecg_m5zLj3Om_6iEJAPcY6SkA5mh",
+    },
+    {
+        id:2,
+        img:"https://drive.google.com/uc?id=1-3FXY5XL9IIQGY6E13BUpCXsReMRxbgt",
+    },
+    {
+        id:3,
+        img:"https://drive.google.com/uc?id=1kYunlWgDdXU_L1Y6ZECjZSv4jEislCP7",
+    },
+    {
+        id:4,
+        img:"https://drive.google.com/uc?id=16gtD_YMfnNRDo_du6UhUs-92mhEQewbu",
+    },
+    {
+        id:5,
+        img:"https://drive.google.com/uc?id=1-GiQuL7rpJ-spfBIALPJ6tMapBeD0UyD",
+    },
+    {
+        id:6,
+        img:"https://drive.google.com/uc?id=1-WJVA9RpG2gt28QIDJgPZDABPaBk4Q1t",
+    },
+    {
+        id:7,
+        img:"https://drive.google.com/uc?id=1-PqZWx66LpaERcmK55yO1okT05PehC7F",
+    },
+    {
+        id:8,
+        img:"https://drive.google.com/uc?id=1-d4xeQUU-v74hFx8DGqVTG1b-NfBJUya",
+    },
+    {
+        id:9,
+        img:"https://drive.google.com/uc?id=1-UvH-NRg6kZux0d_J6LWdwtJ4pQwbIBX",
+    },
+    {
+        id:10,
+        img:"https://drive.google.com/uc?id=1-HXwYYM3blMg2ILmW12xOZWG8juqOyAW",
+    },
+    {
+        id:11,
+        img:"https://drive.google.com/uc?id=1-LAWV8OGITmRzqpneLU47dgs9pCUJzoO",
+    },
+    {
+        id:12,
+        img:"https://drive.google.com/uc?id=1-fkX-spwrLn9lJ5xJDaav2sUhAHCBa3E",
+    },
+];
+
+export default EsseData;
