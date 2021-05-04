@@ -4,7 +4,7 @@ import "./Header.css";
 const Header = () => {
   return (
     <nav className="navbar navbar-expand-lg navbar-light welcome">
-      <div className="navbar-brand fontColor">My Property</div>
+      <div className="navbar-brand fontColor">Chaihong Property</div>
       <button
         className="navbar-toggler"
         type="button"
